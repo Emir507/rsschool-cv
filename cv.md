@@ -69,11 +69,12 @@ function spinWords(word) {
 #### A-Tek Digital Studio
 
 2021.05 - 2021.11
+
 *****
 
 ### Education
 
--Loftschool
+* Loftschool
 
 *****
 
